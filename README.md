@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsampaiof
+- 👋 Hi, I’m Josther Sampaio, I'm 22 years old and I'm live in Brazil
 - 👀 I’m interested in technology, business and pastel
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Node.js, SQL and english
 - 💞️ I’m looking to collaborate on projects involving these programming languages
